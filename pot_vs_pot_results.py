@@ -216,8 +216,8 @@ for i, pot in enumerate(pots):
         if pot == 'Pot 4' and opponent == 'Pot 1':
             ax.annotate(
                 'Galatasaray 1 Liverpool 0',    # text
-                xy=(0, values['win'] + 0.75),   # arrow points to top of win bar + some offset
-                xytext=(0, values['win'] + 4),  # text position
+                xy=(0, values['win'] + 1),   # arrow points to top of win bar + some offset
+                xytext=(-0.2, values['win'] + 4),  # text position
                 arrowprops=dict(facecolor='black', arrowstyle='->'),
                 ha='left',
                 fontweight='bold'  # Make text bold
