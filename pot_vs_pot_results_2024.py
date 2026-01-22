@@ -214,5 +214,5 @@ for i, pot in enumerate(pots):
 
 plt.tight_layout(rect=[0, 0, 1, 0.95])
 fig.suptitle('Champions League 2024-2025 Pot vs Pot Results', fontsize=16)
-plt.savefig('pots_vs_pots_results_2024-2025.png', dpi=300)
+plt.savefig('./images/pots_vs_pots_results_2024-2025.png', dpi=300)
 plt.show()
