@@ -12,6 +12,6 @@ This project analyzes the UEFA Champions League 2025-2026 season, focusing on th
 ## Visualization
 Below is the results matrix for Pot vs Pot matchups in the 2025-2026 season:
 
-![Champions League 2025-2026 Pot vs Pot Results](pots_vs_pots_results_2025_2026.png)
+![Champions League 2025-2026 Pot vs Pot Results](images/pots_vs_pots_results_2025_2026.png)
 
 The highlighted annotation in the image marks Galatasaray's win over Liverpool.
